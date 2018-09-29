@@ -4,9 +4,9 @@ Team Jasper is a capstone team at Northern Arizona University that aims to devel
 
 ### Stylesheets
 
-https://bootswatch.com/lux/
-https://getbootstrap.com/docs/4.0/getting-started/introduction/
-Icons from http://fontawesome.com/
+* https://bootswatch.com/lux/
+* https://getbootstrap.com/docs/4.0/getting-started/introduction/
+* Icons from http://fontawesome.com/
 
 ## Authors
 
